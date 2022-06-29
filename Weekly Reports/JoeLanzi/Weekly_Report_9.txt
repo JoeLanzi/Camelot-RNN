@@ -1,0 +1,18 @@
+Joe Lanzi
+5/2/22
+
+Completed Task:
+- Meet wit client/supervisor about integration
+- Integrate multiple models with camelot
+- Trained and combined best models to deploy
+- Allowed NPCs to change Occupations
+- Started Final Presentation
+
+
+To be completed:
+- Add Tax system
+- Finish final presentation
+
+
+Problems:
+- None

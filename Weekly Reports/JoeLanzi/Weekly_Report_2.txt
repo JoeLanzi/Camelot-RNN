@@ -1,0 +1,28 @@
+Weekly Report 1
+Joe Lanzi
+
+Completed Task:
+- Meet up with group and client to discuss and finalize project
+    * Selected the automated ecosystem that will use RL agent
+- Created and started planning process using Trello Board
+- Started a Camelot map with basic commands, characters, and maps
+- Started a logic system in Camelot involving hunger, health, and energy
+- Started a python code that plots the NPCs basic needs 
+- Started a distance calculation in python using Eucledean distance 
+    *Specifies distance between two or multiple objects
+    *A* search
+
+- Completed and submitted the project planning Worksheet
+
+
+To be completed:
+- Create a RL agent
+- Create a Linear_QNet model and trainer using Torch
+    * Save best model
+    * Consist of input, hidden, and output layers
+- Add layer logics
+- Start Training agent in simulations
+
+Problems:
+- Camelot comes with limited assets
+- Find wether Camelot Experience Manager can output python outputs

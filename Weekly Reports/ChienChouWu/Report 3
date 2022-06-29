@@ -1,0 +1,17 @@
+Weekly Report 3
+Chien-Chou Wu
+
+Completed Task:
+- Meet up with Dr Shirvani to illustrate the problem with importing libraries
+- Generate state.csv and items.csv for visualization
+- Created a gui to visualize
+- Created a Class for generating items
+
+
+To be completed:
+- Research on how does RL work with this project
+- Defined rewards for RL
+- Make the agent work with RL framework
+
+Problems:
+- Importing problem is still not solved yet

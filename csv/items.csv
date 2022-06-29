@@ -1,0 +1,5 @@
+name,count,position,hp_effect,hunger_effect
+poison_apple,999,GreenCottage.Shelf.Left,-10,-5
+small_medicine,999,BrownCottage.Shelf.Right,10,-3
+expensive_medicine,999,RedCottage.Shelf.Left,1,-1
+heart_apple,999,BlueCottage.Shelf.Right,0,15

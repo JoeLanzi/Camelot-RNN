@@ -1,0 +1,17 @@
+Joe Lanzi
+
+Completed Task:
+- Meet wit client/supervisor to talk about model integration & results
+- Trained multiple models for different NPCs
+- Continue to integrate multi models with camelot
+- Created 5 different NPCs and AI model
+- Outputed Model prediction in an excel doc 
+- Created graphics of model results
+
+To be completed:
+- Add Tax system
+- Finish integrating Multiple Models 
+
+
+Problems:
+- None

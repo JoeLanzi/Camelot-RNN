@@ -1,0 +1,19 @@
+Joe Lanzi
+
+Completed Task:
+- Meet wit client/supervisor to talk about adding additional layers
+- Work on multithreading and multiprocessing for models
+- Integrate multi models with camelot
+- Re write and refinished NPCs creation in models
+- Added NPC Occupations
+- Created Excel of prices and stats
+- Updated gnatt chart
+
+To be completed:
+- Add Tax system
+- Create function that allows npc to change occupation
+- train multiple models
+
+
+Problems:
+- multithreading adds a confusion to multiple layers

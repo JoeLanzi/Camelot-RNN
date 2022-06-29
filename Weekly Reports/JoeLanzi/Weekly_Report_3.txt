@@ -1,0 +1,21 @@
+Joe Lanzi
+
+Completed Task:
+- Created a Camelot Environment with character creation & item creation. 
+- Started basic logic for the NPCs health,hunger, & energy
+- Created python codes for Agents and Models
+- Models to be tested includes DQN, A2C, and PPO
+- Created a plotter to plot the environments started
+
+
+
+To be completed:
+- Create Simulation for environments
+- Add layer logics
+- Start Training agent in simulations
+- Acheive basic models for environment based on state
+
+Problems:
+- Find wether Camelot Experience Manager can output python outputs
+- Find wether Camelot can be sped up time wise
+- Camelot integration with Python is more difficult than expected with the errors & problems

@@ -1,0 +1,15 @@
+Weekly Report 6
+Chien-Chou Wu
+
+Completed Task:
+- refactor em.py file for a better structure
+- gui with scroll bar
+
+To be completed:
+- Threading for multi agent (NPC)
+
+Problems:
+- Having problem with Camelot:
+    - Character couldn't walk sometimes with no reason
+
+- Threading hard to implement

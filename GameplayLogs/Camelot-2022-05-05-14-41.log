@@ -1,0 +1,196 @@
+14:41:30.47090 2022-05-05	START GAME
+14:41:36.91083 2022-05-05	started CreatePlace(MainCity, City)
+14:41:40.03007 2022-05-05	succeeded CreatePlace(MainCity, City)
+14:41:40.03407 2022-05-05	started EnableIcon("Open_Green_House_City_Door", Open, MainCity.GreenHouseDoor, "Green House Door", true)
+14:41:40.03767 2022-05-05	succeeded EnableIcon("Open_Green_House_City_Door", Open, MainCity.GreenHouseDoor, "Green House Door", true)
+14:41:40.03987 2022-05-05	started EnableIcon("Open_Brown_House_City_Door", Open, MainCity.BrownHouseDoor, "Brown House Door", true)
+14:41:40.04082 2022-05-05	succeeded EnableIcon("Open_Brown_House_City_Door", Open, MainCity.BrownHouseDoor, "Brown House Door", true)
+14:41:40.04951 2022-05-05	started EnableIcon("Open_Red_House_City_Door", Open, MainCity.RedHouseDoor, "Red House Door", true)
+14:41:40.06681 2022-05-05	succeeded EnableIcon("Open_Red_House_City_Door", Open, MainCity.RedHouseDoor, "Red House Door", true)
+14:41:40.08292 2022-05-05	started EnableIcon("Open_Blue_House_City_Door", Open, MainCity.BlueHouseDoor, "Blue House Door", true)
+14:41:40.10006 2022-05-05	succeeded EnableIcon("Open_Blue_House_City_Door", Open, MainCity.BlueHouseDoor, "Blue House Door", true)
+14:41:40.11655 2022-05-05	started CreatePlace(GreenCottage, Cottage)
+14:41:40.43036 2022-05-05	succeeded CreatePlace(GreenCottage, Cottage)
+14:41:40.43189 2022-05-05	started EnableIcon("Open_Green_House_Door", Open, GreenCottage.Door, "Green House Door", true)
+14:41:40.43297 2022-05-05	succeeded EnableIcon("Open_Green_House_Door", Open, GreenCottage.Door, "Green House Door", true)
+14:41:40.43421 2022-05-05	started CreatePlace(BrownCottage, Cottage)
+14:41:40.76849 2022-05-05	succeeded CreatePlace(BrownCottage, Cottage)
+14:41:40.77069 2022-05-05	started EnableIcon("Open_Brown_House_Door", Open, BrownCottage.Door, "Brown House Door", true)
+14:41:40.77348 2022-05-05	succeeded EnableIcon("Open_Brown_House_Door", Open, BrownCottage.Door, "Brown House Door", true)
+14:41:40.77596 2022-05-05	started CreatePlace(RedCottage, Cottage)
+14:41:41.09274 2022-05-05	succeeded CreatePlace(RedCottage, Cottage)
+14:41:41.09476 2022-05-05	started EnableIcon("Open_Red_House_Door", Open, RedCottage.Door, "Red House Door", true)
+14:41:41.09629 2022-05-05	succeeded EnableIcon("Open_Red_House_Door", Open, RedCottage.Door, "Red House Door", true)
+14:41:41.09779 2022-05-05	started CreatePlace(BlueCottage, Cottage)
+14:41:41.41648 2022-05-05	succeeded CreatePlace(BlueCottage, Cottage)
+14:41:41.41813 2022-05-05	started EnableIcon("Open_Blue_House_Door", Open, BlueCottage.Door, "Blue House Door", true)
+14:41:41.41935 2022-05-05	succeeded EnableIcon("Open_Blue_House_Door", Open, BlueCottage.Door, "Blue House Door", true)
+14:41:41.42124 2022-05-05	started CreateCharacter(Kate,C)
+14:41:41.43051 2022-05-05	succeeded CreateCharacter(Kate,C)
+14:41:41.43549 2022-05-05	started SetHairStyle(Kate,Long)
+14:41:41.45025 2022-05-05	succeeded SetHairStyle(Kate,Long)
+14:41:41.46704 2022-05-05	started SetClothing(Kate,Queen)
+14:41:41.48284 2022-05-05	succeeded SetClothing(Kate,Queen)
+14:41:41.49969 2022-05-05	started CreateCharacter(Bob,F)
+14:41:41.51666 2022-05-05	succeeded CreateCharacter(Bob,F)
+14:41:41.53551 2022-05-05	started SetHairStyle(Bob,Mage_Full)
+14:41:41.55029 2022-05-05	succeeded SetHairStyle(Bob,Mage_Full)
+14:41:41.56728 2022-05-05	started SetClothing(Bob,HeavyArmour)
+14:41:41.58334 2022-05-05	succeeded SetClothing(Bob,HeavyArmour)
+14:41:41.59981 2022-05-05	started SetPosition(Kate,MainCity.Fountain)
+14:41:41.90025 2022-05-05	succeeded SetPosition(Kate,MainCity.Fountain)
+14:41:41.91676 2022-05-05	started SetPosition(Bob,MainCity.NorthEnd)
+14:41:42.21615 2022-05-05	succeeded SetPosition(Bob,MainCity.NorthEnd)
+14:41:42.23449 2022-05-05	started CreateCharacter(Tom,D)
+14:41:42.24998 2022-05-05	succeeded CreateCharacter(Tom,D)
+14:41:42.26732 2022-05-05	started SetHairStyle(Tom,Short, Short_Beard, Short_Full)
+14:41:42.28261 2022-05-05	succeeded SetHairStyle(Tom,Short, Short_Beard, Short_Full)
+14:41:42.29974 2022-05-05	started SetClothing(Tom,Merchant)
+14:41:42.31625 2022-05-05	succeeded SetClothing(Tom,Merchant)
+14:41:42.33294 2022-05-05	started CreateCharacter(Emma,A)
+14:41:42.34963 2022-05-05	succeeded CreateCharacter(Emma,A)
+14:41:42.36735 2022-05-05	started SetHairStyle(Emma,Ponytail)
+14:41:42.38314 2022-05-05	succeeded SetHairStyle(Emma,Ponytail)
+14:41:42.40069 2022-05-05	started SetClothing(Emma,Merchant)
+14:41:42.41594 2022-05-05	succeeded SetClothing(Emma,Merchant)
+14:41:42.43327 2022-05-05	started CreateCharacter(Isabella,E)
+14:41:42.45045 2022-05-05	succeeded CreateCharacter(Isabella,E)
+14:41:42.46641 2022-05-05	started SetHairStyle(Isabella,Straight)
+14:41:42.48300 2022-05-05	succeeded SetHairStyle(Isabella,Straight)
+14:41:42.50071 2022-05-05	started SetClothing(Isabella,Bandit)
+14:41:42.51626 2022-05-05	succeeded SetClothing(Isabella,Bandit)
+14:41:42.53360 2022-05-05	started SetPosition(Tom,MainCity.EastEnd)
+14:41:42.83359 2022-05-05	succeeded SetPosition(Tom,MainCity.EastEnd)
+14:41:42.84980 2022-05-05	started SetPosition(Emma,MainCity.Bench.Right)
+14:41:43.14948 2022-05-05	succeeded SetPosition(Emma,MainCity.Bench.Right)
+14:41:43.16619 2022-05-05	started SetPosition(Isabella,MainCity.Plant)
+14:41:43.46645 2022-05-05	succeeded SetPosition(Isabella,MainCity.Plant)
+14:41:43.48415 2022-05-05	started CreateItem(poison_apple,Apple)
+14:41:43.50029 2022-05-05	succeeded CreateItem(poison_apple,Apple)
+14:41:43.51665 2022-05-05	started SetPosition(poison_apple,GreenCottage.Shelf.Left)
+14:41:43.81677 2022-05-05	succeeded SetPosition(poison_apple,GreenCottage.Shelf.Left)
+14:41:43.83472 2022-05-05	started EnableEffect(poison_apple,Poison)
+14:41:43.85013 2022-05-05	succeeded EnableEffect(poison_apple,Poison)
+14:41:43.86676 2022-05-05	started CreateItem(small_medicine,Bottle)
+14:41:43.88269 2022-05-05	succeeded CreateItem(small_medicine,Bottle)
+14:41:43.90052 2022-05-05	started SetPosition(small_medicine,BrownCottage.Shelf.Right)
+14:41:44.20036 2022-05-05	succeeded SetPosition(small_medicine,BrownCottage.Shelf.Right)
+14:41:44.21684 2022-05-05	started EnableEffect(small_medicine,Magic)
+14:41:44.23369 2022-05-05	succeeded EnableEffect(small_medicine,Magic)
+14:41:44.24968 2022-05-05	started CreateItem(expensive_medicine,GoldCup)
+14:41:44.26623 2022-05-05	succeeded CreateItem(expensive_medicine,GoldCup)
+14:41:44.28355 2022-05-05	started SetPosition(expensive_medicine,RedCottage.Shelf.Left)
+14:41:44.58374 2022-05-05	succeeded SetPosition(expensive_medicine,RedCottage.Shelf.Left)
+14:41:44.59994 2022-05-05	started EnableEffect(expensive_medicine,Force)
+14:41:44.61674 2022-05-05	succeeded EnableEffect(expensive_medicine,Force)
+14:41:44.63395 2022-05-05	started CreateItem(heart_apple,Apple)
+14:41:44.65038 2022-05-05	succeeded CreateItem(heart_apple,Apple)
+14:41:44.66722 2022-05-05	started SetPosition(heart_apple,BlueCottage.Shelf.Right)
+14:41:44.96713 2022-05-05	succeeded SetPosition(heart_apple,BlueCottage.Shelf.Right)
+14:41:44.98336 2022-05-05	started EnableEffect(heart_apple,Heart)
+14:41:45.00039 2022-05-05	succeeded EnableEffect(heart_apple,Heart)
+14:41:45.01642 2022-05-05	started SetCameraFocus(Kate)
+14:41:45.06962 2022-05-05	succeeded SetCameraFocus(Kate)
+14:41:45.07594 2022-05-05	started SetCameraMode(track)
+14:41:45.11198 2022-05-05	succeeded SetCameraMode(track)
+14:41:45.12920 2022-05-05	started ShowMenu()
+14:41:45.15549 2022-05-05	succeeded ShowMenu()
+14:41:45.16527 2022-05-05	started HideMenu()
+14:41:45.17953 2022-05-05	succeeded HideMenu()
+14:41:45.19497 2022-05-05	started EnableInput()
+14:41:45.21170 2022-05-05	succeeded EnableInput()
+14:41:45.21477 2022-05-05	input arrived Kate at (317.4, 0.4, 9.4)
+14:41:45.23033 2022-05-05	started Exit(Bob, MainCity.BrownHouseDoor, false)
+14:41:45.23389 2022-05-05	started Exit(Kate, MainCity.RedHouseDoor, false)
+14:41:45.26767 2022-05-05	input started walking Kate at (317.4, 0.4, 9.4)
+14:41:45.28072 2022-05-05	input started walking Kate at (317.4, 0.4, 9.0)
+14:41:46.33268 2022-05-05	input exited Kate position MainCity.Fountain
+14:41:49.85094 2022-05-05	input arrived Kate position MainCity.RedHouseDoor.In
+14:41:50.34964 2022-05-05	input exited Kate position MainCity.RedHouseDoor.In
+14:41:50.38391 2022-05-05	input arrived Kate position MainCity.RedHouseDoor
+14:41:54.79654 2022-05-05	input arrived Kate position MainCity.RedHouseDoor.Out
+14:41:55.98023 2022-05-05	input arrived Kate at (333.2, 0.9, -3.2)
+14:41:56.01331 2022-05-05	succeeded Exit(Kate, MainCity.RedHouseDoor, false)
+14:41:58.24698 2022-05-05	succeeded Exit(Bob, MainCity.BrownHouseDoor, false)
+14:41:58.26511 2022-05-05	started Enter(Kate, RedCottage.Door, false)
+14:41:58.28319 2022-05-05	started Enter(Bob, BrownCottage.Door, false)
+14:41:58.38422 2022-05-05	input exited Kate position MainCity.RedHouseDoor.Out
+14:41:58.38456 2022-05-05	input arrived Kate position RedCottage.Door.Out
+14:42:01.87735 2022-05-05	input arrived Kate position RedCottage.Door.In
+14:42:01.87807 2022-05-05	input arrived Kate position RedCottage.Door
+14:42:01.93064 2022-05-05	input arrived Kate at (1200.3, 0.1, -2.3)
+14:42:01.94465 2022-05-05	input stopped walking Kate at (1200.3, 0.1, -2.3)
+14:42:03.09397 2022-05-05	succeeded Enter(Kate, RedCottage.Door, false)
+14:42:03.11072 2022-05-05	succeeded Enter(Bob, BrownCottage.Door, false)
+14:42:03.12968 2022-05-05	started Take(Kate,expensive_medicine,RedCottage.Shelf.Left)
+14:42:03.14606 2022-05-05	started Take(Bob,small_medicine,BrownCottage.Shelf.Right)
+14:42:03.16181 2022-05-05	input started walking Kate at (1200.3, 0.1, -2.3)
+14:42:03.17804 2022-05-05	input started walking Kate at (1200.7, 0.1, -2.3)
+14:42:03.19433 2022-05-05	input arrived Kate position RedCottage.Bed
+14:42:03.31204 2022-05-05	input exited Kate position RedCottage.Bed
+14:42:03.69538 2022-05-05	input exited Kate position RedCottage.Door
+14:42:03.87729 2022-05-05	input exited Kate position RedCottage.Door.In
+14:42:04.77891 2022-05-05	input arrived Kate position RedCottage.Shelf.Right
+14:42:04.77934 2022-05-05	input arrived Kate position RedCottage.Shelf
+14:42:04.81209 2022-05-05	input arrived Kate position RedCottage.Shelf.Left
+14:42:07.24483 2022-05-05	started SetCameraFocus(Bob)
+14:42:07.26164 2022-05-05	succeeded SetCameraFocus(Bob)
+14:42:07.46152 2022-05-05	input arrived Bob at (898.0, 0.1, 3.0)
+14:42:07.49489 2022-05-05	succeeded Take(Bob,small_medicine,BrownCottage.Shelf.Right)
+14:42:07.51206 2022-05-05	started Drink(Bob)
+14:42:07.77770 2022-05-05	succeeded Take(Kate,expensive_medicine,RedCottage.Shelf.Left)
+14:42:11.67723 2022-05-05	succeeded Drink(Bob)
+14:42:11.69418 2022-05-05	started Drink(Kate)
+14:42:11.71199 2022-05-05	started Exit(Bob, BrownCottage.Door, false)
+14:42:11.74557 2022-05-05	input started walking Bob at (898.0, 0.1, 3.0)
+14:42:11.76197 2022-05-05	input stopped walking Bob at (898.0, 0.1, 3.0)
+14:42:11.76368 2022-05-05	input started walking Bob at (898.0, 0.1, 3.0)
+14:42:11.77928 2022-05-05	input started walking Bob at (898.0, 0.1, 3.0)
+14:42:12.29547 2022-05-05	input exited Bob position BrownCottage.Shelf.Left
+14:42:12.39418 2022-05-05	input exited Bob position BrownCottage.Shelf
+14:42:12.41197 2022-05-05	input exited Bob position BrownCottage.Shelf.Right
+14:42:13.21111 2022-05-05	input arrived Bob position BrownCottage.Door.In
+14:42:13.36116 2022-05-05	input arrived Bob position BrownCottage.Door
+14:42:13.86208 2022-05-05	input exited Bob position BrownCottage.Door.In
+14:42:15.72903 2022-05-05	succeeded Drink(Kate)
+14:42:15.74625 2022-05-05	started Exit(Kate, RedCottage.Door, false)
+14:42:18.41243 2022-05-05	input arrived Bob position BrownCottage.Door.Out
+14:42:19.57803 2022-05-05	input arrived Bob at (900.2, 0.0, -7.1)
+14:42:19.61193 2022-05-05	succeeded Exit(Bob, BrownCottage.Door, false)
+14:42:23.71263 2022-05-05	succeeded Exit(Kate, RedCottage.Door, false)
+14:42:23.72939 2022-05-05	started Enter(Bob, MainCity.BrownHouseDoor, false)
+14:42:23.74558 2022-05-05	started Enter(Kate, MainCity.RedHouseDoor, false)
+14:42:23.86260 2022-05-05	input exited Bob position BrownCottage.Door.Out
+14:42:23.86301 2022-05-05	input arrived Bob position MainCity.BrownHouseDoor.Out
+14:42:27.16283 2022-05-05	input arrived Bob position MainCity.BrownHouseDoor.In
+14:42:27.19614 2022-05-05	input stopped walking Bob at (324.9, 0.4, 8.5)
+14:42:27.19799 2022-05-05	input arrived Bob at (324.9, 0.4, 8.5)
+14:42:28.36272 2022-05-05	succeeded Enter(Bob, MainCity.BrownHouseDoor, false)
+14:42:28.37921 2022-05-05	succeeded Enter(Kate, MainCity.RedHouseDoor, false)
+14:42:28.39709 2022-05-05	started Exit(Bob, MainCity.BlueHouseDoor, false)
+14:42:28.41352 2022-05-05	started Exit(Kate, MainCity.GreenHouseDoor, false)
+14:42:28.43049 2022-05-05	input started walking Bob at (324.9, 0.4, 8.5)
+14:42:28.44659 2022-05-05	input started walking Bob at (325.3, 0.3, 8.6)
+14:42:28.46254 2022-05-05	input arrived Bob position MainCity.BrownHouseDoor
+14:42:29.06399 2022-05-05	input exited Bob position MainCity.BrownHouseDoor.In
+14:42:29.09681 2022-05-05	input exited Bob position MainCity.BrownHouseDoor
+14:42:29.83076 2022-05-05	input arrived Bob position Isabella
+14:42:29.88050 2022-05-05	input arrived Bob position MainCity.Plant
+14:42:30.02979 2022-05-05	input arrived Bob position Isabella
+14:42:30.47947 2022-05-05	input exited Bob position Isabella
+14:42:30.62967 2022-05-05	input exited Bob position MainCity.Plant
+14:42:30.68103 2022-05-05	input exited Bob position Isabella
+14:42:35.51376 2022-05-05	started SetCameraFocus(Kate)
+14:42:35.53400 2022-05-05	succeeded SetCameraFocus(Kate)
+14:42:35.56362 2022-05-05	input arrived Kate position MainCity.GreenHouseDoor.In
+14:42:35.86229 2022-05-05	input exited Kate position MainCity.GreenHouseDoor.In
+14:42:35.86267 2022-05-05	input arrived Kate position MainCity.GreenHouseDoor
+14:42:40.26245 2022-05-05	input arrived Kate position MainCity.GreenHouseDoor.Out
+14:42:41.41596 2022-05-05	input arrived Kate at (304.4, 0.8, -5.1)
+14:42:41.44655 2022-05-05	succeeded Exit(Kate, MainCity.GreenHouseDoor, false)
+14:42:41.46583 2022-05-05	started Enter(Kate, GreenCottage.Door, false)
+14:42:41.57998 2022-05-05	input exited Kate position MainCity.GreenHouseDoor.Out
+14:42:41.58041 2022-05-05	input arrived Kate position GreenCottage.Door.Out
+14:42:41.61366 2022-05-05	succeeded Exit(Bob, MainCity.BlueHouseDoor, false)
+14:42:41.81205 2022-05-05	input Quit
+14:42:41.81266 2022-05-05	END GAME

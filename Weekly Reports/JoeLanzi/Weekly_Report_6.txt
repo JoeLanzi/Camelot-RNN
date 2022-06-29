@@ -1,0 +1,19 @@
+Joe Lanzi
+
+Completed Task:
+- Meet wit client/supervisor to talk about adding additional layers
+- Created a multithread function for the environment and models
+- Environment running in real time
+- Model running based on how long actions take
+
+
+To be completed:
+- Add occupation
+- Create function that allows npc to change occupation
+- Create Excel of prices and stats
+- Run multiple models
+
+
+Problems:
+- All problems the past few weeks have been resolved
+- No problems at this time 

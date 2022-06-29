@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+pygame
+torch 
+torchvison
+stable_baselines3

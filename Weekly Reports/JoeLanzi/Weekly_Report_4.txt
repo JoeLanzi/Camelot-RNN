@@ -1,0 +1,20 @@
+Joe Lanzi
+
+Completed Task:
+- Started developing environment and agent simulations
+- Utilized Reinforcement Learning algorihtms to create model used in the simulations
+- Successfully built a mock environment for running test and simulations
+- Successfully created a model that can "survive" much better within the environment logic vs random action generators
+- Created multiple models using PPO and A2C
+- Create a domain model for the entire algorihtms
+
+
+To be completed:
+- Add wealth to environment logic & train/ test using simulations
+- Create variability in environment
+- Train more models and plot agent results
+
+
+Problems:
+- All problems the past few weeks have been resolved
+- No problems at this time 

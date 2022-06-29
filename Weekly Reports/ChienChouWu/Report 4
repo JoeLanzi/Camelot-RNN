@@ -1,0 +1,19 @@
+Weekly Report 4
+Chien-Chou Wu
+
+Completed Task:
+- Createed basic state logic for the NPCs
+- Integrate Camelot with Agent simulation
+- Create Helper funtion to save state, items in csv file.
+- Read csv file data into GUI
+- More GUI chart created
+- Made a pipline.sh for GUI and predicting action from Agent
+
+
+To be completed:
+- Create camera option in GUI
+- Solved importing Problems
+- Add more state logic
+
+Problems:
+- Importing problem is still not solved yet

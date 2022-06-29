@@ -1,0 +1,32 @@
+Weekly Report 1
+Joe Lanzi
+
+Completed Task:
+- Meet up with group/team to discuss the project
+- Get familiar with Camelot (game/software used for narrative story)
+	* Familiarized with game commands, inputs, objects, and experience manager
+- Meet up with the client/professor about the project.
+- Research multiple AI Agents/ ML methods for complete story narrative
+	* Results were not promising ************
+	* Even with agents/models trained with properly with multiple genres of movies/tv/books create incoherent stories/ stories that doesn't make lots of sense
+	* May be better to use agents/models to create small stories off of main story
+- Research Deep Learning vs Reinforced Learning for narrative storyies/ games
+	* Deep learning models learn from defined values/targets & reinforced learning learn from a point system based on sequences of actions/states.
+	* Reinforced learning in this project would be better suitted for creating AI agente that mimics human behaviors/needs
+	* Reinforced learning agents learn from observing the environment, and getting rewards or punishment based on its actions
+	* Sample models that can be used are Deep Q-Learning, Finite-State Machines, A2C, PPO, TD3, ACER, DQN
+- Discussed Waterfall vs Agile Process for the project, the group decided to go with the Agile process
+- Project Ideas:
+	* AI agents for non-player characters (NPCs) which allows NPCs to completely do task on their own without human interaction
+		** Being able to complete task and automatically select states on their own
+		** Like an evolutionary agent which allows the NPCs to learn their enrironment to survive
+	* NPCs being able to create Side Narrative Stories from the Main Stories
+		** Have players action have great affects on the narrative
+
+
+To be completed:
+- Make Trello Board for task organization
+- Complete Project Planning Worksheet *************
+- Discuss with Project idea/ ie story & type of project
+- Create Ai agents/ ML models (RL)
+

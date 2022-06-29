@@ -1,0 +1,16 @@
+Joe Lanzi
+5/9/22
+
+Completed Task:
+- Meet wit client/supervisor powerpoint
+- Review powerpoint and added/fix additional items
+- Completed itegration with camelot
+
+
+To be completed:
+- Add Tax system
+- Finish final presentation
+
+
+Problems:
+- None

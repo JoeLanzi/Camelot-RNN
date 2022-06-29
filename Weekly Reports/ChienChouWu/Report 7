@@ -1,0 +1,25 @@
+Weekly Report 7
+Chien-Chou Wu
+
+Completed Task:
+- Combobox in GUI is added
+- Character state graph in GUI changed after character is slected
+- Two characters created (Bob, Kate) with AI controlling all their behavior
+    - Action 0 - 3: Eat various apples
+    - Action 4: Sleep on the bench
+    - Action 5: Wave
+- Threading completed
+    - Gui Thread
+    - Kate action Thread
+    - Bob action Thread
+
+To be completed:
+- Combine new logic & environment (Model) that Joe has created.
+    - occupation
+    - inflation
+    - tax system
+    - more actions
+
+Problems:
+- Problem solved: Character couldn't walk sometimes.
+    - EnableInput should place after Settings (Set characters, places, menu ... etc.)

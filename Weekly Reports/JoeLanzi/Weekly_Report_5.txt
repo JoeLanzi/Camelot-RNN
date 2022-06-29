@@ -1,0 +1,20 @@
+Joe Lanzi
+
+Completed Task:
+- Testiong out environment and agent simulations
+- Utilized PPO to create RL model
+- Built reward system from time alive + happinhess
+- Trained model on 1million step simulation of environment
+- Added wealth system to the environment
+- Completed PowerPoint draft & Gnatt Chart
+
+
+To be completed:
+- Add a non-determenistic environment simulation
+- Introduce trading systems, supply and demand
+- Improve state logic & reward strategy
+
+
+Problems:
+- All problems the past few weeks have been resolved
+- No problems at this time 

@@ -1,0 +1,20 @@
+Weekly Report 2
+Chien-Chou Wu
+
+Completed Task:
+- Meet up with group and client to discuss and finalize project
+    * Selected the automated ecosystem that will use RL agent
+- Created a basic Class for generating characters
+- Created a basic environment including characters and items placed
+- Read several paper (RL, AI model, Game development) according to the needs
+
+- Completed and submitted the project planning Worksheet
+
+
+To be completed:
+- Create a Class for generating items
+- Create visualization for character's state and track items
+
+Problems:
+- Counld not import some libraries like matplotlib and pandas
+
